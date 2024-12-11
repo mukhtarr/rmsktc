@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "local server"
+    },
+    {
+      "title": "angular",
+      "body": "framework",
+      "id": 2
+    }
+  ],
+  "projects": [
+    {
+      "Id": 1,
+      "Project_Title": "Virtual Measurement",
+      "Name_of_Guide": "Prof Abdul Majid Ansari",
+      "Year": "2024",
+      "Student_Name1": "Khan Mohammad Arbaaz(Prov)",
+      "Student_Name2": "Khan Faisal",
+      "Student_Name3": "Khan Saibaz",
+      "Student_Name4": "Khan mohammad sharif"
+    },
+    {
+      "Id": 2,
+      "Project_Title": "Virtual Measurement",
+      "Name_of_Guide": "Prof Abdul Majid Ansari",
+      "Year": "2021",
+      "Student_Name1": "Khan Mohammad Arbaaz(Prov)",
+      "Student_Name2": "Khan Faisal",
+      "Student_Name3": "Khan Saibaz",
+      "Student_Name4": "Khan mohammad sharif"
+    }
+  ]
+}
